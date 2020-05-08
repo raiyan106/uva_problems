@@ -24,6 +24,4 @@ int recur_sum(int n){
     }
      return recur_sum(sum);
 
-
-
 }
